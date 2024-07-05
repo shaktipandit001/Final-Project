@@ -1,10 +1,10 @@
 # COGS App Project Overview
 
 ## Project Description
-The COGS (Cost of Goods Sold) App is designed to streamline and optimize inventory, waste, purchasing, and sales management for businesses in the food industry. By integrating comprehensive tracking and forecasting functionalities, the app aims to reduce waste, improve inventory turnover, and enhance decision-making processes.
+The COGS (Cost of Goods Sold) is designed to streamline and optimize inventory, waste, purchasing, and sales management for businesses in the food industry. By integrating comprehensive tracking and forecasting functionalities, the aims to reduce waste, improve inventory turnover, and enhance decision-making processes.
 
 ## Project Goal
-The goal of the COGS App is to provide a robust, user-friendly platform that enables businesses to efficiently manage their inventory, reduce waste, streamline purchasing, and accurately forecast sales. This will help businesses optimize their operations, reduce costs, and increase profitability.
+The goal of the COGS and Forcast is to provide a robust, user-friendly platform that enables businesses to efficiently manage their inventory, reduce waste, streamline purchasing, and accurately forecast sales. This will help businesses optimize their operations, reduce costs, and increase profitability.
 
 ## Key Features
 
@@ -47,7 +47,7 @@ The goal of the COGS App is to provide a robust, user-friendly platform that ena
 - **ETL Processes:** Implement ETL (Extract, Transform, Load) processes to ensure data quality.
 - **Data Handling:** Handle missing values, outliers, and data inconsistencies.
 
-### 3. Exploratory Data Analysis (EDA)
+### 3. Exploratory Data Analysis (EDA) and Streamlining Data Extraction, Transformation, and Loading for Enhanced Efficiency (ETL)
 - **Data Understanding:** Perform EDA to understand data distribution and relationships.
 - **Visualizations:** Use visualizations (histograms, scatter plots, box plots) to identify patterns and trends.
 - **Summary Statistics:** Calculate summary statistics (mean, median, standard deviation, etc.).
@@ -62,12 +62,12 @@ The goal of the COGS App is to provide a robust, user-friendly platform that ena
 - **Model Evaluation:** Evaluate models .
 
 ### 6. Sales Forecasting
-- **Forecast Generation:** Generate sales forecasts for the next five years.
+- **Forecast Generation:** Generate sales forecasts for the next 10 years.
 - **Periodic Updates:** Update forecasts periodically as new data becomes available.
 
 ### 7. Application Development
 - **User Interface:** Develop a user-friendly interface for managing inventory, waste, purchases, sales, and recipes.
-- **Frameworks:** Use web development frameworks (?).
+- **Frameworks:** Use web development frameworks (do after Project).
 - **Security:** Implement authentication and authorization for data security.
 
 ### 8. Deployment and Monitoring
@@ -76,10 +76,10 @@ The goal of the COGS App is to provide a robust, user-friendly platform that ena
 - **Continuous Improvement:** Continuously improve the app based on user feedback and new requirements.
 
 ## Technologies and Tools
-- **Database:** Exel,MySQL
+- **Database:** Exel
 - **Backend Development:** Python 
 - **Frontend Development:** 
-- **Data Analysis and Forecasting:** Python (Pandas, NumPy, Scikit-learn)
+- **Data Analysis and Forecasting:** Python (Pandas,Polar NumPy, Scikit-learn)
 - **Visualization:** Matplotlib, Seaborn, Plotly
 - **Deployment:** 
 
